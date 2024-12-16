@@ -12,6 +12,8 @@ ASYIRA ANDHINI LUNA (G.231.22.0030)
 
 ACHMAD IDO SAPUTRO (G.231.22.0037)
 
+https://docs.google.com/document/d/1FHpyf_69ODGNa3liBWJykik0LrtEwopEgWtnjlEb5PQ/edit?usp=sharing
+
 
 
 
