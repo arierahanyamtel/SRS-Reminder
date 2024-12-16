@@ -1,4 +1,17 @@
 ###################
+Rekayasa Perangkat Lunak
+###################
+
+MOH. HARYSAKTI RAHANYAMTEL (G.231.22.045)
+YOGI PRAMUJA SUPRIYANTO (G.231.22.0001) 
+DINA CAHYO WIBOWO (G.231.22.0004)
+ASYIRA ANDHINI LUNA (G.231.22.0030)
+ACHMAD IDO SAPUTRO (G.231.22.0037)
+
+
+
+
+###################
 What is CodeIgniter
 ###################
 
